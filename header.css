@@ -1,0 +1,33 @@
+.head{
+    background-image: url(img/header-pic.jpeg);
+   /* height: 400px;
+   width: 1595px; */
+    border: solid 2px rgb(138, 141, 141);
+    padding: 10px;
+    margin: 0%;
+    
+
+}
+.boxs{
+    background-color:blue ;
+    opacity: 70%;
+    left: 3rem;
+    min-width: 15rem;
+    max-width: 23rem;
+    padding: 4rem 3rem 4rem 3rem;
+    top: 29rem;
+    margin-left: 20px;
+    margin-top: 300px;
+    
+}
+.topics{
+    color: coral;
+    /* opacity: 65%; */
+    font-weight: 700 ;
+    position: relative;
+}
+@media (prefers-reduced-motion: no-preference) {
+    :root {
+      scroll-behavior: smooth;
+    }
+}

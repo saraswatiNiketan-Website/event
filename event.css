@@ -1,0 +1,25 @@
+body{
+    /* background-repeat: no-repeat; */
+    background-color:#fff(66, 66,165);
+    /* font-family: 'Poppins', sans-serif; */
+    color:#fff;
+    font-size: 0.9rem;
+}
+
+  .pic{
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    
+  }
+  .heading{
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 100px;
+    color: rgb(244, 133, 73);
+      
+  }
+div{
+  display:block;
+  position: relative;
+}
